@@ -1,4 +1,5 @@
 #🛒 BearCart: E-Commerce Growth & Conversion Intelligence
+
 ##📌 Project Overview
 
 BearCart is a growing e-commerce platform that experienced strong traffic growth but struggled with declining conversion efficiency and revenue concentration.
