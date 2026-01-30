@@ -43,7 +43,7 @@ This dashboard is designed to provide a business-first view of e-commerce perfor
 - Analyzes monthly order trends and year-wise traffic growth  
 **Key Insight:** Revenue is heavily concentrated among a small set of products, while traffic growth peaked earlier and later declined, indicating a shift from growth to efficiency challenges.
 
-![KPI Overview](KPI_overview.png)
+![KPI Overview](screenshots/KPI_overview.png)
 
 ---
 
@@ -51,7 +51,7 @@ This dashboard is designed to provide a business-first view of e-commerce perfor
 - Breaks down the user journey from homepage sessions to cart and completed orders  
 **Key Insight:** The largest drop-off occurs at the cart-to-checkout stage, highlighting checkout friction as the primary conversion bottleneck rather than traffic acquisition.
 
-![Conversion Funnel](conversion_funnel.png)
+![Conversion Funnel](screenshots/conversion_funnel.png)
 
 ---
 
@@ -60,7 +60,7 @@ This dashboard is designed to provide a business-first view of e-commerce perfor
 - Evaluates revenue-based refund rates across products  
 **Key Insight:** Certain products generate significant revenue but also contribute disproportionately to refund-related revenue loss, creating hidden profitability risk.
 
-![Product Analysis](Product_revenue.png) ![Refund Analysis](Refund_overview.png)
+![Product Analysis](screenshots/Product_revenue.png) ![Refund Analysis](screenshots/Refund_overview.png)
 
 ---
 
@@ -69,7 +69,7 @@ This dashboard is designed to provide a business-first view of e-commerce perfor
 - Analyzes desktop vs mobile usage behavior  
 **Key Insight:** Search channels attract high-intent users with strong revenue contribution, while social channels underperform. Desktop dominates usage, suggesting untapped potential and possible friction in the mobile experience.
 
-![Channel & Device Analysis](channel_performance.png) ![Device Analysis](Device_analysis.png)
+![Channel & Device Analysis](screenshots/channel_performance.png) ![Device Analysis](screenshots/Device_analysis.png)
 
 ## 💡 Key Business Insights & Decisions
 
