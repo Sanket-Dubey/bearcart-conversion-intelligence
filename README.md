@@ -34,37 +34,42 @@ Revenue leakage indicator
 
 ## 🧩 Dashboard Overview
 
-### 1️⃣ Revenue & Product Performance
-- Identifies top revenue-contributing products  
-- Highlights heavy revenue concentration on a small product set  
+This dashboard is designed to provide a business-first view of e-commerce performance, focusing on revenue efficiency, conversion bottlenecks, user behavior, and risk areas such as refunds and channel quality.
 
-**Key Insight:** Business is highly dependent on one flagship product, increasing revenue risk.
+---
 
-### 2️⃣ Website Traffic Trends
-- Year-wise session analysis  
-- Growth phase followed by traffic decline  
+### 🖼️ KPI, Revenue & Traffic Performance
+- Tracks overall revenue, revenue per session, and average order value (AOV)
+- Analyzes monthly order trends and year-wise traffic growth  
+**Key Insight:** Revenue is heavily concentrated among a small set of products, while traffic growth peaked earlier and later declined, indicating a shift from growth to efficiency challenges.
 
-**Key Insight:** Traffic peaked in 2014, indicating a shift from growth to efficiency-focused optimization.
+![KPI Overview](kpi_overview.png)
 
-### 3️⃣ Conversion Funnel Analysis
-- Session → Cart → Order funnel visualization  
+---
 
-**Key Insight:** Largest drop-off occurs at the cart-to-checkout stage, not at traffic acquisition.
+### 🖼️ Conversion Funnel Analysis
+- Breaks down the user journey from homepage sessions to cart and completed orders  
+**Key Insight:** The largest drop-off occurs at the cart-to-checkout stage, highlighting checkout friction as the primary conversion bottleneck rather than traffic acquisition.
 
-### 4️⃣ Device Usage Analysis
-- Desktop vs Mobile session comparison  
+![Conversion Funnel](conversion_funnel.png)
 
-**Key Insight:** Desktop dominates traffic; mobile shows untapped potential due to usability or performance friction.
+---
 
-### 5️⃣ Marketing Channel Performance
-- Traffic vs revenue contribution by UTM source  
+### 🖼️ Product Revenue & Refund Risk
+- Compares product-level revenue contribution
+- Evaluates revenue-based refund rates across products  
+**Key Insight:** Certain products generate significant revenue but also contribute disproportionately to refund-related revenue loss, creating hidden profitability risk.
 
-**Key Insight:** Search channels attract high-intent users, while social media drives volume but low revenue.
+![Product Analysis](Product_revenue.png) ![Refund Analysis](Refund_overview.png)
 
-### 6️⃣ Refund Analysis
-- Product-level revenue-based refund rates  
+---
 
-**Key Insight:** Certain products contribute disproportionately to refunded revenue, causing net revenue loss.
+### 🖼️ Channel & Device Performance
+- Compares traffic share vs revenue share across marketing channels
+- Analyzes desktop vs mobile usage behavior  
+**Key Insight:** Search channels attract high-intent users with strong revenue contribution, while social channels underperform. Desktop dominates usage, suggesting untapped potential and possible friction in the mobile experience.
+
+![Channel & Device Analysis](channel_performance.png) ![Device Analysis]()
 
 ## 💡 Key Business Insights & Decisions
 
