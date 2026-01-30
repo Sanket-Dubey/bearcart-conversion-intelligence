@@ -99,5 +99,11 @@ This dashboard is designed to provide a business-first view of e-commerce perfor
 - No predictive modeling implemented yet
 
 
+## 📂 Power BI Dashboard Access
+Due to file size limitations on GitHub, the complete interactive Power BI dashboard file is not hosted directly in this repository.
+
+The dashboard can be shared upon request or during interviews.
+
+
 
 
