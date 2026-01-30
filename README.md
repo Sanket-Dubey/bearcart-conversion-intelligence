@@ -43,7 +43,7 @@ This dashboard is designed to provide a business-first view of e-commerce perfor
 - Analyzes monthly order trends and year-wise traffic growth  
 **Key Insight:** Revenue is heavily concentrated among a small set of products, while traffic growth peaked earlier and later declined, indicating a shift from growth to efficiency challenges.
 
-![KPI Overview](kpi_overview.png)
+![KPI Overview](KPI_overview.png)
 
 ---
 
@@ -69,7 +69,7 @@ This dashboard is designed to provide a business-first view of e-commerce perfor
 - Analyzes desktop vs mobile usage behavior  
 **Key Insight:** Search channels attract high-intent users with strong revenue contribution, while social channels underperform. Desktop dominates usage, suggesting untapped potential and possible friction in the mobile experience.
 
-![Channel & Device Analysis](channel_performance.png) ![Device Analysis]()
+![Channel & Device Analysis](channel_performance.png) ![Device Analysis](Device_analysis.png)
 
 ## 💡 Key Business Insights & Decisions
 
